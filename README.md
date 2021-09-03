@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @EvilJKD - My Real Name is Jose Cadena
-- 👀 I’m interested in java, javascript, web development, videogame development
-- 🌱 I’m currently learning android studio, web development with html, css and js 
-- 💞️ I’m looking to collaborate on  android studio and web development projects
-- 📫 How to reach me 
+# Hello there! My name is José M. Cadena 👋
+# You can call me Cade! 😜
 
-<!---
-EvilJKD/EvilJKD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a computer science engineering student 💻 at Universidad San Francisco de Quito 🐉🐉
+
+My love for computers began when I was 6 years old. I used to spend entire days using my uncle's computer.
+Since then, I've been exploring technology and its features! 👀
+
+When I was 16 when I made my first HTML page! 
+Now I love programming! 😍❤️️👀
+
+
+## Skills
+
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
